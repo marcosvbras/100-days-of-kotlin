@@ -34,13 +34,7 @@ So, **let's code**?
 
 ## Usage
 
-These examples were compiled with **Kotlin 1.2.41**. It is recommended to install this exactly version for a correct running.
-
-All **Day Files** already have their respective `.jar` files, everything you need to do is enter within a **Day Directory** listed below and run:
-
-```bash
-$ java -jar main.jar
-```
+These examples were compiled with **Kotlin 1.2.41** and [IntelliJ IDEA](https://www.jetbrains.com/idea/). It is recommended to install this exactly Kotlin version for a correct running.
 
 | Day | Title      |
 | --- |:----------:|
