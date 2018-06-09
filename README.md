@@ -1,7 +1,7 @@
 # 100 Days Of Kotlin
 
 <p align="center">
-  <img src="https://raw.github.com/marcosvbras/100-days-of-kotlin/master/images/kotlin.gif" alt="Custom image"/>
+  <img src="images/kotlin.gif" alt="Custom image"/>
 </p>
 
 ## What is this?
@@ -9,7 +9,7 @@
 **100 Days Of Kotlin** is inspired in [#100DaysOfCode](https://medium.freecodecamp.org/join-the-100daysofcode-556ddb4579e4) initiative and [60 Days Of Go](https://github.com/cassiobotaro/60-days-of-go) repository, where I learn something new about Kotlin every day during 100 days.
 
 <p align="center">
-  <img src="https://raw.github.com/marcosvbras/100-days-of-kotlin/master/images/programming_languages.jpg" alt="Custom image"/>
+  <img src="images/programming_languages.jpg" alt="Custom image"/>
 </p>
 
 This project is a piece of a series called **X Days Of Something**, which one includes:
@@ -39,3 +39,4 @@ These examples were compiled with **Kotlin 1.2.41** and [IntelliJ IDEA](https://
 | Day | Title      |
 | --- |:----------:|
 | 001 | [First of all: Hello World!](days/day001) |
+| 002 | [Defining variables](days/day002) |
