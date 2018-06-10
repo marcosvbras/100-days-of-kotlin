@@ -41,3 +41,4 @@ These examples were compiled with **Kotlin 1.2.41** and [IntelliJ IDEA](https://
 | 001 | [First of all: Hello World!](days/day001) |
 | 002 | [Defining variables](days/day002) |
 | 003 | [Nullable variables](days/day003) |
+| 004 | [Number Type Variables](days/day004) |
