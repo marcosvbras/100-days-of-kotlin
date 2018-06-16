@@ -44,3 +44,4 @@ These examples were compiled with **Kotlin 1.2.41** and [IntelliJ IDEA](https://
 | 004 | [Number Type Variables](days/day004) |
 | 005 | [Number type conversions](days/day005) |
 | 006 | [String interpolation](days/day006) |
+| 007 | [String Methods I](days/day007) |
