@@ -47,3 +47,4 @@ These examples were compiled with **Kotlin 1.2.41** and [IntelliJ IDEA](https://
 | 007 | [String Methods I](days/day007) |
 | 008 | [String Methods II: Indexes, Substrings and Replace](days/day008) |
 | 009 | [String Methods III - String Checks](days/day009) |
+| 010 | [Using conditions](days/day010) |
