@@ -51,3 +51,4 @@ These examples were compiled with **Kotlin 1.2.41** and [IntelliJ IDEA](https://
 | 011 | [Creating Functions I](days/day011) |
 | 012 | [Creating Functions II - Infix](days/day012) |
 | 013 | [Creating Functions III - Local Functions](days/day013) |
+| 014 | [Classes I - Simple classes](days/day014) |
