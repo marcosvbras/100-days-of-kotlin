@@ -49,3 +49,4 @@ These examples were compiled with **Kotlin 1.2.41** and [IntelliJ IDEA](https://
 | 009 | [String Methods III - String Checks](days/day009) |
 | 010 | [Using conditions](days/day010) |
 | 011 | [Creating Functions I](days/day011) |
+| 012 | [Creating Functions II - Infix](days/day012) |
